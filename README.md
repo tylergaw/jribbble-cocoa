@@ -1,7 +1,8 @@
-# Jribbble JSTalk
-A JSTalk version of https://github.com/tylergaw/jribbble.
+# Jribbble Cocoa
+A CocoaScript/JSTalk version of https://github.com/tylergaw/jribbble.
 
-I built this to work on some Sketch plugins. Still very new so no working examples yet.
+This is built to work with Sketch plugins. Ported it for use with
+[https://github.com/tylergaw/skribbble](https://github.com/tylergaw/skribbble)
 
 ## Dependencies
-* JSTalk
+* CocoaScript or JSTalk
